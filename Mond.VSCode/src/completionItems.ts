@@ -30,8 +30,8 @@ export const keywords: string[] = [
 export const stlConstants: string[] = [
     //Math module
     "PI",
-    "E",
-]
+    "E"
+];
 
 export const stlMethods: string[] = [
     //Require module
@@ -130,6 +130,5 @@ export const stlMethods: string[] = [
     "cancelAfter",
     "isCancellationRequested",
     "register",
-    "throwIfCancellationRequested",
-
+    "throwIfCancellationRequested"
 ];
